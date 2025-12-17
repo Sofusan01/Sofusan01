@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofuSan&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=AAAAAA&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=SofuSan&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=AAAAAA&hide_border=true" />
 
 </div>
 
@@ -119,4 +119,15 @@ MTTR:                ↓
 <img src="https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hack-the-box&logoColor=39FF14"/>
 </a>
 <a href="#">
-<img src="https://im
+<img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=39FF14"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=45&section=footer&text=ACCESS%20GRANTED%20%7C%20STAY%20LOW%20%26%20KEEP%20HUNTING&fontColor=39FF14&fontSize=14"/>
+
+</div>
