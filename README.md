@@ -4,8 +4,6 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sofusan01&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=AAAAAA&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
