@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&lines=root@SofuSan:~%23+boot;Initializing+Cyber+Operations...;SOC+Analyst+%7C+Pentester;Threat+Hunting+Mode:+ON;Access+Granted." />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=SofuSan&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=SofuSan01&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
