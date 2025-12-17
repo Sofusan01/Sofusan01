@@ -1,16 +1,41 @@
-## Hi there 👋
+### 👨‍💻 // User Profile initialized...
 
-<!--
-**Sofusan01/Sofusan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+
+class Developer:
+
+    def __init__(self):
+
+        self.name = "SofuSan"
+
+        self.role = "Internship / SOC / Pentester"
+
+        self.language_spoken = ["en_US", "th_TH"] # Example
+
+    
+
+    def current_focus(self):
+
+        return [
+
+            "Network Security",
+
+            "Cyber Security",
+
+            "Penetration Testing"
+
+        ]
+
+
+
+    def say_hi(self):
+
+        print("Thanks for dropping by! Feel free to check my repos.")
+
+
+
+me = Developer()
+
+me.say_hi()
