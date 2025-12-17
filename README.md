@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&lines=root@SofuSan:~%23+boot;Initializing+Cyber+Operations...;SOC+Analyst+%7C+Pentester;Threat+Hunting+Mode:+ON;Access+Granted." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&lines=root@Sofusan01:~%23+boot;Initializing+Cyber+Operations...;SOC+Analyst+%7C+Pentester;Threat+Hunting+Mode:+ON;Access+Granted." />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Sofusan01&theme=highcontrast&hide_border=true&border_radius=5" />
 
 </div>
 
@@ -71,8 +75,8 @@ $ pwd
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SofuSan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=AAAAAA" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofuSan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=AAAAAA" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sofusan01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=AAAAAA" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofusan01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=AAAAAA" height="160"/>
 
 </div>
 
@@ -108,7 +112,7 @@ MTTR:                ↓
 
 <div align="center">
 
-<a href="https://github.com/SofuSan">
+<a href="https://github.com/Sofusan01">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 <a href="#">
