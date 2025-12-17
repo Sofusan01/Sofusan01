@@ -1,7 +1,11 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=720&lines=root@Sofusan01:~%23+boot;Initializing+Cyber+Operations...;SOC+Analyst+%7C+Pentester;Threat+Hunting+Mode:+ON;Access+Granted." />
+
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sofusan01&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=AAAAAA&hide_border=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sofusan01&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&dates=AAAAAA&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
